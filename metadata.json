@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Invoice Data Extractor",
+  "description": "An application to extract structured data from multiple invoice PDFs using AI and download it as a CSV file.",
+  "requestFramePermissions": []
+}
